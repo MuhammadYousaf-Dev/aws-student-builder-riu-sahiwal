@@ -124,3 +124,4 @@ body{padding-bottom:84px}.pg{padding-top:22px}
 .js .rv{opacity:0;transform:translateY(28px) scale(.98);transition:opacity .7s,transform .7s cubic-bezier(.2,.8,.2,1)}.js .rv.in{opacity:1;transform:none}
 .spn .lw.wh{background:#fff}.spn+.spn{margin-top:16px}.ev .pic{display:block}.ev .pic img{width:100%;height:auto}
 @media(prefers-reduced-motion:reduce){.mt,.orb,.hero h1 span,.btn.pulse{animation:none}.js .rv{opacity:1;transform:none}}
+.kf{padding:22px;margin-bottom:10px}.kf h2{margin:0 0 12px}.kf dl{margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px 22px}.kf dt{font:600 11px ui-monospace,Menlo,Consolas,monospace;letter-spacing:2px;text-transform:uppercase;color:var(--bl)}.kf dd{margin:2px 0 0;font-weight:600}.lm{margin:0;padding:0 18px 16px;font-size:14px}.lm a{color:var(--or);margin-right:12px;font-weight:600}.faq h2{margin-top:30px}

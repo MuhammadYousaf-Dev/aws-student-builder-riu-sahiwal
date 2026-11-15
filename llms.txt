@@ -16,3 +16,7 @@
 - [Media](https://aws-sbg-riu-sahiwal.tech/media/)
 - [Partners](https://aws-sbg-riu-sahiwal.tech/partners/)
 - [Contact](https://aws-sbg-riu-sahiwal.tech/contact/)
+- [FAQ](https://aws-sbg-riu-sahiwal.tech/faq/): answers about the group and about AWS (Free Tier, Cloud Practitioner, Git, GitHub, Kiro)
+
+## About the program
+AWS Student Builder Groups were formerly called AWS Cloud Clubs; Cloud Club Captains are now Group Leaders. AWS Student Builder Group RIU Sahiwal and AWS Cloud Club Riphah Sahiwal refer to the same student-run community at Riphah International University, Sahiwal Campus.
