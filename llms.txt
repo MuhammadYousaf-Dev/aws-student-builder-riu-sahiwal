@@ -1,0 +1,18 @@
+# AWS Student Builder Group RIU Sahiwal
+> Student-run cloud computing community at Riphah International University, Sahiwal Campus (Sahiwal, Punjab, Pakistan). Also known as AWS SBG RIU Sahiwal, AWS Riphah Sahiwal and AWS Sahiwal.
+
+## Key facts
+- First session: "AWS Starting Point" on 18 November 2026, University Auditorium, RIU Sahiwal.
+- Speaker and group leader: Muhammad Yousaf.
+- Registration: Meetup event page (https://www.meetup.com/aws-sbg-at-riphah-international-university-sahiwal-campus/events/317359073/).
+- Planned sessions: Introduction to Git and GitHub; Build with Kiro (dates to be announced).
+- Sponsors: WakeelsApp (https://wakeels.app/), Super Crisp (https://supercrisp.com.pk/).
+- Social: Instagram (https://www.instagram.com/riphah.sbg.swl), LinkedIn (https://www.linkedin.com/company/aws-student-builder-group-riphah-sahiwal/).
+
+## Pages
+- [Home](https://aws-sbg-riu-sahiwal.tech/): about, first session, FAQ
+- [Team](https://aws-sbg-riu-sahiwal.tech/team/)
+- [Gallery](https://aws-sbg-riu-sahiwal.tech/gallery/)
+- [Media](https://aws-sbg-riu-sahiwal.tech/media/)
+- [Partners](https://aws-sbg-riu-sahiwal.tech/partners/)
+- [Contact](https://aws-sbg-riu-sahiwal.tech/contact/)
